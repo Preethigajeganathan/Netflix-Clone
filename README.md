@@ -12,9 +12,9 @@ Netflix Clone is a movie streaming web application built with React. Users can b
 
 ## 📸 Preview
 
-```md
+
 [![Netflix Clone Preview](public/preview.png)](https://quick-chat-app-eight.vercel.app/)
-```
+
 
 ---
 
