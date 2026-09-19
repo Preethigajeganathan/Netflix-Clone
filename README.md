@@ -6,14 +6,14 @@ Netflix Clone is a movie streaming web application built with React. Users can b
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** https://netflix-clone-olive-phi-83.vercel.app/login
+🔗 **Live Website:** https://netflix-clone-olive-phi-83.vercel.app/
 
 ---
 
 ## 📸 Preview
 
 
-[![Netflix Clone Preview](public/preview.png)](https://quick-chat-app-eight.vercel.app/)
+[![Netflix Clone Preview](public/preview.png)](https://netflix-clone-olive-phi-83.vercel.app/)
 
 
 ---
